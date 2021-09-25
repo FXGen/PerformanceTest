@@ -1,0 +1,6 @@
+First Contentful Paint is unchanged
+First Meaningful Paint is unchanged
+Speed Index is unchanged
+Total Blocking Time is NaN% faster
+Max Potential First Input Delay is unchanged
+Time to Interactive is unchanged

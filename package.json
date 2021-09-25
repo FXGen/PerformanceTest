@@ -1,0 +1,16 @@
+{
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lh.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "glob": "^7.1.7",
+    "lighthouse": "^8.4.0",
+    "yargs": "^17.1.1"
+  }
+}
